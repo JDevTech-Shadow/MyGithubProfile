@@ -9,7 +9,7 @@
   
 
 <p align="center">
-<img width="200" src="https://github.com/jhay-tech/jhay-tech/blob/main/male.jpg?raw=true">
+<img width="200" src="https://github.com/JDevTech-Shadow/JDevTech-Shadow/blob/main/male.jpg?raw=true">
 </p>
 <br>
 <br>
