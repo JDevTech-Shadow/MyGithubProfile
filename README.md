@@ -72,8 +72,8 @@
  <br>
  <br>
  <br>
- ![JhayDevTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhayDevTech&hide=stars&theme=midnight-purple)
+ ![JDevTech-Shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDevTech-Shadow&hide=stars&theme=midnight-purple)
 <!---
-jhay-tech/jhay-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JDevTech-Shadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
